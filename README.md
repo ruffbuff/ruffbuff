@@ -18,5 +18,5 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,figma,html,css,vscode,ipfs,discord,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,solidity,js,py,ts,nodejs,nextjs,react,express,firebase,replit" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,solidity,js,ts,py,nodejs,nextjs,express,firebase,replit" /><br>
 </div>
