@@ -11,7 +11,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" />
     <img src="https://skillicons.dev/icons?i=solidity,lua,py,js,ts,css" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vercel,flask,discord,telegram,ipfs" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vercel,flask,discord,ipfs" />
 </div>
 
 <h2 align="center">WANT TO LEARN:</h2>
